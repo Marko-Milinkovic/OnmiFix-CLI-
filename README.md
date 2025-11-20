@@ -307,7 +307,7 @@ claude --chat
 
 ---
 
-# 🛠 Internals / Dispatch Order
+# Internals / Dispatch Order
 
 The CLI resolves modes in this order:
 
@@ -320,7 +320,7 @@ The CLI resolves modes in this order:
 
 ---
 
-# 🔧 Configuration
+# Configuration
 
 Override the model globally:
 
@@ -345,19 +345,3 @@ claude --max-tokens 4000 "long output here"
 
 ---
 
-#  You now have a complete Claude CLI toolkit
-
-This README works perfectly for:
-
-- GitHub  
-- Notion  
-- VS Code / Cursor  
-- Documentation sites  
-
-If you want:
-- A logo/banner  
-- GitHub badges  
-- A screenshot section  
-- Autocomplete script  
-
-Just tell me!
